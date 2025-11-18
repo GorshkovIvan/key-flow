@@ -7,7 +7,7 @@ KeyFlow enables secondary market trading for API credits issued by machine learn
 - **Developer Tool:** Convert API credits to tokens on BASE.
 - **Tokenized Credits:** Easy transfer and sale of tokenized credits.
 - **Frontend Integration:** Simple frontend integration.
-- **Decentralized Marketplace:** Fully built and functioning API marketplace on BASE.
+- **API Marketplace:** Fully built and functioning API marketplace.
 - **Paymaster Integration:** Streamlined payment solutions.
 - **Mistral AI chat wrapper:** To demonstrate keyflow capabilities.
 - **Provider Commission:** API Provider can set a custom commission for each resell.
